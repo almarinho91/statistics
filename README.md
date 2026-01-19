@@ -6,7 +6,7 @@ A collection of statistical learning notebooks implemented in Python.
 
 - **01_intro.ipynb** - Introduction to statistical computing and data visualization
 - **02_regression.ipynb** - Linear regression with statsmodels
-- **03_classification_models.ipynb** - Different classification models
+- **03_classification_methods.ipynb** - Different classification models
 
 ## License
 
