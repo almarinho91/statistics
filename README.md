@@ -12,8 +12,8 @@ A collection of statistical learning notebooks implemented in Python.
 - **06_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
 - **07_tree_based_methods.ipynb** - Decision trees and ensemble methods for classification and regression
 - **08_support_vector_machines.ipynb** - Linear and non-linear classification using support vector machines
-- **09_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
-- **09_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
+- **09_nonlinear_regression.ipynb** - Dimensionality reduction and exploratory data analysis using PCA
+- **10_clustering_methods.ipynb** - Unsupervised learning: K-Means and Hierarchical Clustering
 
 ## License
 
