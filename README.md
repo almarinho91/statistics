@@ -9,6 +9,11 @@ A collection of statistical learning notebooks implemented in Python.
 - **03_classification_methods.ipynb** - Implementation of various classification algorithms
 - **04_ressampling_methods.ipynb** - Implementation of resampling techniques for model validation and uncertainty estimation
 - **05_model_selection.ipynb** - Methods for selecting the best subset of predictors in linear regression
+- **06_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
+- **07_tree_based_methods.ipynb** - Decision trees and ensemble methods for classification and regression
+- **08_support_vector_machines.ipynb** - Linear and non-linear classification using support vector machines
+- **09_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
+- **09_nonlinear_regression.ipynb** - Beyond linear relationships: polynomials, step functions, splines, and generalized additive models
 
 ## License
 
